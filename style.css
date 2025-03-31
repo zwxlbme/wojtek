@@ -1,0 +1,282 @@
+body {
+    line-height: 2;
+    background: rgb(27,27,27);
+background: linear-gradient(59deg, rgba(27,27,27,1) 20%, rgba(54,53,53,1) 40%, rgba(27,27,27,1) 60%, rgba(54,53,53,1) 82%, rgba(33,33,33,1) 100%);
+
+
+
+}
+
+h3 {
+
+color: white;
+
+
+}
+
+
+p1 {
+
+color: white;
+
+}
+
+
+
+li {
+    color: white;
+}
+
+p2 {
+
+color: white;
+
+
+}
+
+
+.carousel-caption-custom {
+    position: absolute;
+    bottom: 5%;   
+    left: 3%;     
+    z-index: 20;  
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.6); 
+    border-radius: 25px; 
+    padding: 10px 20px; 
+    max-width: 90%; 
+}
+
+h1 {
+    font-size: 6vw; 
+    margin: 0; 
+    font-family: san-marino;
+    text-transform: uppercase;
+}
+
+
+ 
+
+
+.d-block w-100 {
+
+    size: 110%;
+
+
+}
+  
+p3 {
+
+color: white;
+
+}
+
+h2 {
+
+color: white;
+text-align: center;
+size: 80px;
+font-family: montlige;
+text-transform: uppercase;
+font-weight: bold;
+
+
+
+}
+
+
+p4 {
+
+color: white;
+
+}
+
+p5 {
+
+color: white;
+
+}
+
+
+.wojtek-mic {
+
+float: left;
+height: 500px;
+width: 400px;
+margin: 15px;
+border-radius: 15%;
+
+
+
+}
+
+.bibliografie {
+
+color: white;
+
+
+}
+
+.main-footer {
+
+color: white;
+font-family: absolute;
+
+}
+
+.text-footer {
+
+text-align: center;
+size: 5px;
+font-family: absolute;
+
+
+}
+
+
+
+.povestea-wojtek {
+
+text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+font-family: absolute;
+font-size: large;
+
+}
+
+.monte-cassino {
+
+    text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+font-family: absolute;
+font-size: large;
+
+}
+
+.scotia {
+
+    text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+font-family: absolute;
+font-size: large;
+
+}
+
+.concluzie {
+
+    text-align: justify;
+    margin-right: 15px;
+    margin-left: 15px; 
+    font-family: absolute;
+    font-size: large;
+
+}
+
+.bibliografie {
+
+    margin-right: 15px;
+    margin-left: 15px; 
+    font-family: absolute;
+
+}
+
+.haisalut {
+
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+    font-family: absolute;
+    
+    }
+
+
+.wojtek-soldat {
+
+width: 400px;
+height: 500px;
+
+float: right;
+margin: 15px;
+border-radius: 15%;
+
+}
+
+
+.wojtek-zoo {
+
+
+width: 450px;
+height: 450px;
+
+float: right;
+margin: 15px;
+border-radius: 15%;
+
+}
+
+
+.wojtek-statuie {
+
+
+
+    width: 500px;
+    height: 400px;
+    
+   
+    margin: 15px;
+    border-radius: 15%;
+
+}
+
+
+.btn {
+
+margin-left: 15px;
+font-family: absolute;
+
+
+}
+
+
+@font-face {
+    font-family: montlige;
+    src: url(montlige.ttf);
+  }
+
+  @font-face {
+    font-family: san-marino;
+    src: url(san-marino.ttf);
+  }
+
+  @font-face {
+    font-family: absolute;
+    src: url(absolute.ttf);
+  }
+
+
+
+  .card-text {
+
+    font-family: absolute;
+    font-size: large;
+
+  }
+
+  .card-title {
+
+    font-family: montlige;
+    text-transform: uppercase;
+  }
+
+
+
+.highlight {
+
+font-weight: bold;
+font-style: italic;
+text-transform: uppercase;
+
+}
